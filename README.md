@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vidhanjain143&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
 <h1 align="center">👋 Hello, I'm Vidhan Jain!</h1>
 <h3 align="center">Web Developer | MERN </h3>
 
@@ -9,12 +5,16 @@
 
 ## 🚀 About Me
  
-- 🔭 I’m currently with MERN Stack
+- 🔭 I’m currently working with MERN Stack
 - 🌱 I’m diving deep into **Web Development**
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-vidhanjain143s-projects.vercel.app/)
 - 💌 How to reach me: <a href="mailto:vidhanjain143@gmail.com@gmail.com">vidhanjain143@gmail.com</a>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vidhanjain143&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+--- 
 
 ## 🌐 Let's Connect!
 
@@ -47,12 +47,14 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
+### Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidhanjain143&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidhanjain143&theme=dark&show_icons=true&locale=en" alt="Vidhanjain143">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhanjain143&theme=dark&hide_border=false">
 </p>
 
 ---
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Vidhan_Jain?theme=dark&font=Fjalla%20One)
+### 📘Leetcode Stats
+<p>
+<img src="https://leetcard.jacoblin.cool/Vidhan_Jain?theme=dark&font=Fjalla%20One">
+</p>
