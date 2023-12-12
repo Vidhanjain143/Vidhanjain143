@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Vidhan Jain!</h1>
-<h3 align="center">Web Developer | MERN </h3>
+<h3 align="center">Full Stack Developer | MERN </h3>
 
 ---
 
