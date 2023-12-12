@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hello, I'm Vidhan Jain!</h1>
-<h3 align="center">Full Stack Developer | MERN </h3>
+![MasterHead](./github-header-image.png)
 
 ---
 
