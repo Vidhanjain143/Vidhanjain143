@@ -54,6 +54,6 @@
 
 ---
 ### 📘Leetcode Stats
-<p>
+<p align="center">
 <img src="https://leetcard.jacoblin.cool/Vidhan_Jain?theme=dark&font=Fjalla%20One">
 </p>
